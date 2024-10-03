@@ -22,3 +22,8 @@ spam = 0
 while (spam < 5):
     print ("Olá, mundo!")
     spam +=1
+
+while (name != 'your name'):
+    print ("Por favor digite seu nome")
+    name = input()
+print ("Obrigado")
