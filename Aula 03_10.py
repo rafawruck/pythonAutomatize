@@ -17,3 +17,8 @@ elif (age < 100):
     print ("Você não é Alice, vovó")
 elif (age > 2000):
     print ("Ao contrário de você, Alice não é uma vampira imortal e morta-viva ")
+
+spam = 0
+while (spam < 5):
+    print ("Olá, mundo!")
+    spam +=1
